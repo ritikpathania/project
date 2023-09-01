@@ -1,0 +1,14 @@
+## data
+numpy==1.16.4
+## plot
+matplotlib==3.1.2
+## machine learning
+scikit-learn==0.22
+## deep learning
+tensorflow==2.6.0
+## cv
+opencv-python==3.4.2.16
+imageai==2.1.5
+## ocr
+pdf2image==1.16.0
+layoutparser==0.3.4
